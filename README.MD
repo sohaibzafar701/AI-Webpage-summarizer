@@ -1,4 +1,4 @@
-# AICO Webpage Summarizer - Gemini Version
+# AI Webpage Summarizer 
 
 A LangChain-based webpage summarization agent powered by Google's Gemini API.
 
@@ -13,7 +13,7 @@ A LangChain-based webpage summarization agent powered by Google's Gemini API.
 ## Project Structure
 
 ```
-aico-summarizer/
+AI-Webpage-Summarizer/
 ├── .env                  # Environment variables
 ├── requirements.txt      # Dependencies
 ├── app.py                # FastAPI application
@@ -31,8 +31,8 @@ aico-summarizer/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/aico-summarizer.git
-cd aico-summarizer
+git clone https://github.com/sohaibzafar701/AI-Webpage-summarizer.git
+cd AI-Webpage-summarizer
 ```
 
 2. **Set up a virtual environment**
